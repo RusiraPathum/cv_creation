@@ -3,7 +3,7 @@
 class db
 {
     private $host = "localhost";
-    private $db_name = "dptravel_online_class";
+    private $db_name = "cv_creation";
     //   private $username="root";
     private $username = "root";
     private $password = "";
